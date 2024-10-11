@@ -29,7 +29,6 @@ body {
     left: 15px;
 }
 
-
 .back-button:hover {
     color: #65c;
 }
@@ -38,7 +37,7 @@ h1 {
     text-align: center;
     flex: 1;
     color: #fff;
-    margin: 0px auto 20px;
+    margin: 0px auto 25px;
 }
 
 .button-container {
