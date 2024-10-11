@@ -1,0 +1,3 @@
+[submodule "osu/local-score-migrator"]
+	path = osu/local-score-migrator
+	url = https://github.com/K0nomi/local-score-migrator.git
