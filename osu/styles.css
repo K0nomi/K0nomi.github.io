@@ -47,7 +47,8 @@ h1 {
     justify-content: center;
 }
 
-.item {
+.button {
+    color: #fff;
     padding: 10px;
     border-radius: 5px;
     text-align: center;
@@ -56,17 +57,23 @@ h1 {
     transition: background-color 0.25s;
 }
 
-.enabled {
-    color: #fff;
-    background-color: #86d;
-}
-
-.enabled:hover {
-    background-color: #65c;
-}
-
 .disabled {
     background-color: #444;
     color: #7f7f7f;
     cursor: not-allowed;
+}
+
+/* Button colours */
+.purple {
+    background-color: #86d;
+}
+.purple:hover {
+    background-color: #65c;
+}
+
+.pink {
+    background-color: #ff66b2;
+}
+.pink:hover {
+    background-color: #FF1A8C;
 }
