@@ -3,4 +3,4 @@
 	url = https://github.com/K0nomi/local-score-migrator.git
 [submodule "osu/pack-metadata-fixer"]
 	path = osu/pack-metadata-fixer
-	url = https://github.com/K0nomi/pack-metadata-fixer.git
+	url = https://github.com/K0nomi/pack-metadata-fixer
